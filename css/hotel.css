@@ -474,6 +474,10 @@ footer p {
     height: 400px;
     margin-top: 92px;
   }
+  
+  .sideNav {
+    top: 24%;
+  }
 
   dl {
     font-size: 14px;
